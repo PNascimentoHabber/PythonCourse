@@ -4,4 +4,4 @@ Jupyter Notebook is a web-based interactive computational environment for creati
 The purpose of this week is for you to become familiar with this tool.
 I will teach you the basics and some tips and tricks that I've used. 
 However, the biggest takeaway is this:
-Whenever you're using your mouse to work with Jupyter Notebook, try to find a shortcut instead! If you do this enough times, you'll be a Jupyter Notebook pro in no time! Goodluck!
+Whenever you're using your mouse to work with Jupyter Notebook, try to find a shortcut instead! If you do this enough times, you'll be a Jupyter Notebook pro in no time! Good luck!
